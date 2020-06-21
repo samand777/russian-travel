@@ -1,0 +1,24 @@
+@import url(./__zone/intro__zone.css);
+@import url(./__title/intro__title.css);
+@import url(./__text/intro__text.css);
+@import url(./__list-zone/intro__list-zone.css);
+@import url(./__list/intro__list.css);
+
+.intro {
+    width: 91vw;
+    max-width: 984px;
+    margin: 92px auto;
+}
+
+@media screen and (max-width: 768px){
+    .intro {
+        width: 100vw;
+        margin: 88px auto;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .intro {
+        margin: 64px auto;
+    }
+}

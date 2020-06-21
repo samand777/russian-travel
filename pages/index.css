@@ -1,0 +1,25 @@
+@import url(../vender/normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url(../blocks/header/header.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/website/website.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css);
+
+
+html {
+    font-family: 'Inter', sans-serif;
+}
+
+* {
+    /*border: 1px solid red;*/
+}
+
+.page {
+    background-color: #2A2C2F;
+    color: white;
+}

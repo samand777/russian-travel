@@ -1,0 +1,21 @@
+.footer__link-shall {
+    margin: 0 18px 0 0;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.12;
+}
+
+.footer__link-shall:last-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 670px){
+    .footer__link-shall {
+        font-size: 24px;
+        line-height: 24px;
+        margin: 0 0 32px;
+    }
+}
+
+
+
