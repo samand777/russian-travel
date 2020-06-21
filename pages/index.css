@@ -10,16 +10,15 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
 
-
-html {
-    font-family: 'Inter', sans-serif;
-}
-
-* {
-    /*border: 1px solid red;*/
-}
-
 .page {
     background-color: #2A2C2F;
     color: white;
+    font-family: 'Inter', sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    
 }
