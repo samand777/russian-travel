@@ -3,6 +3,7 @@
 @import url(./__text/intro__text.css);
 @import url(./__list-zone/intro__list-zone.css);
 @import url(./__list/intro__list.css);
+@import url(./__list/_font/intro__list_font_bold.css);
 
 .intro {
     width: 91vw;
@@ -12,13 +13,8 @@
 
 @media screen and (max-width: 768px){
     .intro {
-        width: 100vw;
         margin: 88px auto;
     }
 }
 
-@media screen and (max-width: 400px){
-    .intro {
-        margin: 64px auto;
-    }
-}
+

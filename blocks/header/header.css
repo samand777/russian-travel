@@ -2,9 +2,11 @@
 @import url(./__lang-links/header__lang-links.css);
 @import url(./__lang-links-shall/header__lang-links-shall.css);
 @import url(./__lang-link/header__lang-link.css);
+@import url(./__lang-link/_active/header__lang-link_active.css);
 
 .header  {
     width: 91vw;
+    max-width: 1184px;
     padding: 28px 0 0;
     display: grid;
     grid-template-columns: repeat(2, auto);

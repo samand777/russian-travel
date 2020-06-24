@@ -4,6 +4,7 @@
 
 @media screen and (max-width: 400px){
     .place__paragraphs {
-        padding: 0 2vw;
+        width: 91vw;
+        margin: 0 auto;
     }
 }

@@ -5,6 +5,7 @@
 
 .footer {
     width: 91vw;
+    max-width: 1184px;
     margin: 92px auto 0;
     padding: 0 0 24px;
     display: grid;
