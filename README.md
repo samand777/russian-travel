@@ -17,3 +17,6 @@
 - флекс 
 - оптимизация шрифтов
 - и относительные величины
+
+### Ссылка на github
+https://samand777.github.io/russian-travel/
